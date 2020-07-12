@@ -1,0 +1,14 @@
+print("Input")
+list=[1,'John',"Mike",'Jake']
+print(list)
+tuple=(10,20,30,40)
+print(tuple)
+dict={"c++":'medium',"python":"hard","HTML":"easiest"}
+print (dict)
+print("Output")
+list.append("Jaime")
+list.append("Steve")
+print(list)
+print(tuple[3])
+del dict['c++']
+print (dict)
